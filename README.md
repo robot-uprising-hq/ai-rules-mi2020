@@ -7,7 +7,7 @@ Here are the rules for the event Micro Invaders 2020. Feel free to suggest rule 
 
 The game is played between two teams battling each other in short 3 or 5 rounds showdowns. Each team has two autonomous robots playing for their side at a time. All teams  start with 0 points. Teams can either try to increase their points or decrease opponent’s pointst.
 
-The points are increased by collecting positive energy cores, balls, to the team’s base and the points are lost by receiving negative energy cores or by receiving other penalties. A point is given when an energy core stays inside the base and does not bounce off. After point is given, the ball is removed from the base. Robots are not allowed to go intentionally inside their own base.
+The points are increased by collecting positive energy cores, balls, to the team’s base and the points are lost by receiving negative energy cores or by receiving other penalties. A point is given when an energy core stays inside the base and does not bounce off. The energy core doesn't have to be stopped to receive the point. After a point is given, the referee picks the energy core from the base by hand. Robots are not allowed to go intentionally inside their own base.
 
 If the team receives 3 negative energy cores, their base is destroyed and the opponent wins. If both teams are alive at the end of a game, the team holding greater energy count will overpower their opponent and win. In case of a tie, the team that has collected most positive energy cores wins. If still tie, the team that collected energy cores faster wins.
 
@@ -30,36 +30,35 @@ If a robot breaks down, gets tilted etc and the team wants to pull their robot o
 
 ## Robots
 
-The team receives their robot model around 1 month before competition. 
+The team receives their robot model around 1 month before competition, and each team will be assigned to have two unique ArUco markers.
 
 Each team is responsible to 3D-print their own robots and their ArUco markers but the organizer are allowed to help and give e.g. spare parts if needed.
 
 The color of the robot should be either black or white. Others colors can be used only if the colors cannot be seen at all from the top-down view camera.
 
-Primarly, customizing the robot is not allowed. However, we may allow small adjustments for the robots, e.g. rounding some corners, modifying density of the tracks. Please, verify all modifications before doing them from from the organizers.
+On top of each robot, there must be ArUco marker with dimensions 115mm x 115mm. The markers should point directly up.
 
+Teams are allowed to attach their own custom accessories/parts at the front of the robots. The accessories must be 3D-printed, and their color must be either black or white. With the the front accessory, the length of the robot should be at max 165mm and width of which 120mm. The front accessories are not allowed to block any ArUco markers.
 
-## Illustration
+The robots are not allowed break nor destroy other robots but nonharmful harassment, such as blocking or ramming, is allowed. 
+
+## Arena
 
 ![arena.png](arena.png)
 
-Illustration units are in centimeters, but overall image is not to accurate scale.
+Illustration units are in centimeters, but overall image is not to accurate scale. The colors of the illustration may not match with the rules.
 
-The game is played on a 1,5m x 1,5m square arena. Two opposing corners are designated as scoring areas for the blue and the red team.
+The game is played on a 1.5m x 1.5m square arena. Two opposing corners are designated as the bases for the teams. The color of the ground is greyish-black. The color of the base does not different from the ground.
 
-The two corners marked with black, have small bumpers that prevent the balls from getting stuck in the corners, where the robots might have trouble retrieving them.
+In the borderline of scoring areas, there are small greyish-white bumps that prevent energy cores going to the area without push or significant speed. The bump separates the goal from the actual game area. 
 
-The balls / energy cores have a diameter of 7cm.
+The two corners, marked with black, have small bumpers that prevent the balls from getting stuck in the corners, where the robots might have trouble retrieving them.
 
-The robots are roughly 13cm x 11cm.
+The robots are roughly 130mm x 110mm without any accessories. With the accessories, the maximum allowed size is 165mm x 120mm. The energy cores have a diameter of 72mm.
 
 
 ## Disclaimer
 
-This competition main idea is to gather like-minded people together and have fun.
-
-We encourage teams to help each other, and we, the organizers, are more than happy to help the teams to succeed.
-
-No need to take this competition too seriously :)
+This competition main idea is to gather like-minded people together and have fun. We encourage teams to help each other, and we, the organizers, are more than happy to help the teams to succeed. No need to take this competition too seriously :)
 
 Everything is subject to change.
