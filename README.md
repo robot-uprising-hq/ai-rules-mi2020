@@ -49,7 +49,7 @@ The robots are not allowed to break nor destroy other robots, but nonharmful har
 
 ![arena.png](arena.png)
 
-Illustration units are in millimeters. The lighting of the arena is bound to change.
+Units are in millimeters. The lighting of the arena is bound to change. The energy cores and the robots of one team are in their starting positions. 
 
 The game is played on a 1.5m x 1.5m square arena. Two opposing corners are designated as the bases for the teams. The color of the ground is greyish-black. The color of the base does not look different from the ground.
 
