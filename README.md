@@ -1,6 +1,6 @@
 # Micro Invaders 2.0 Rules
 
-Here are the rules for the event Micro Invaders 2020. Feel free to suggest rule changes by creating _an issue_ or _a pull request_.
+Here are the rules for the event Micro Invaders 2.0. Feel free to suggest rule changes by creating _an issue_ or _a pull request_.
 
 ## Game Logic
 
