@@ -8,7 +8,7 @@ The game is played between two teams battling each other in short 3 or 5 rounds 
 
 The points are increased by collecting positive energy cores, balls, to the team's base. A point is given when an energy core stays inside the base and does not bounce off. The energy core doesn't have to be stopped to receive the point. After a point is given, the referee picks the energy core from the base by hand. Robots are not allowed to go intentionally inside their own base.
 
-If the team receives 3 corrupt energy cores, their base is destroyed, and the opponent wins. If both teams are alive at the end of a game, the team holding greater energy count will overpower their opponent and win. In case of a tie, the team that has collected two energy cores faster, wins.
+If the team receives 3 corrupt energy cores, their base is destroyed, and the opponent wins. If both teams are alive at the end of a game, the team holding greater energy count will overpower their opponent and win. In the case of a tie, the team that collected the first energy core, wins.
 
 The round ends after 2.5 minutes or if all the energy cores are collected.
 
@@ -42,7 +42,8 @@ On top of each robot, there must be an ArUco marker. The markers should point di
 
 Teams are allowed to attach their own custom accessories/parts at the front of the robots. The accessories must be 3D-printed, and their color must be either black or white. With the front accessory, the length of the robot should be at max 165mm and the width of which 120mm. The front accessories are not allowed to block any ArUco markers.
 
-The robots are not allowed to break nor destroy other robots, but nonharmful harassment, such as blocking or ramming, is allowed.
+The robots are not allowed to break nor destroy other robots, but nonharmful harassment, such as blocking or ramming, is allowed.\
+Hacking of the robots by taking advance of the way robots communicate or by manipulation of the scoreboard system is prohibited.
 
 ## Arena
 
