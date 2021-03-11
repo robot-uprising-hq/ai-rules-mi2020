@@ -1,4 +1,4 @@
-# Micro Invaders 2020 Rules
+# Micro Invaders 2.0 Rules
 
 Here are the rules for the event Micro Invaders 2020. Feel free to suggest rule changes by creating _an issue_ or _a pull request_.
 
@@ -27,7 +27,7 @@ Energy cores are presented in the challenge as floorball balls in the area. The 
 One of the corners with a bump has a tube filled with pink cores and the the tube spits out one pink core to the arena every 30s beginning from 0:30 
 and lasting until 2:00, spitting out 4 corrupt cores in total.
 
-Green cores = positive cores (gain +1 point).
+Green cores = positive cores (gain +1 point).\
 Pink cores = corrupt cores (if the team scores 3 of these to the opponent's goal, that team wins)
 
 ## Robots
