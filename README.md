@@ -43,7 +43,7 @@ On top of each robot, there must be an ArUco marker. The markers should point di
 Teams are allowed to attach their own custom accessories/parts at the front of the robots. The accessories must be 3D-printed, and their color must be either black or white. With the front accessory, the length of the robot should be at max 165mm and the width of which 120mm. The front accessories are not allowed to block any ArUco markers.
 
 The robots are not allowed to break nor destroy other robots, but nonharmful harassment, such as blocking or ramming, is allowed.\
-Hacking of the robots by taking advance of the way robots communicate or by manipulation of the scoreboard system is prohibited.
+Hacking of the robots by taking advance of the way robots communicate or manipulating the scoreboard system is strictly prohibited.
 
 ## Arena
 
