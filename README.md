@@ -1,16 +1,26 @@
-# Micro Invaders 2.0 Rules
+# Micro Invaders 2024 Competition Rules
 
-Here are the rules for the event Micro Invaders 2.0. Feel free to suggest rule changes by creating _an issue_ or _a pull request_.
+**NOTE that the rules are currently under revision for the 2024 competition and may receive any changes until May 31st.** 
+
+This document outlines the rules the Robot Uprising: Micro Invaders 2024 Competition. The competition lives with the community so feel free to suggest rule changes by creating _an issue_ or _a pull request_, if you have ideas that.
 
 ## Game Logic
 
-The game is played between two teams battling each other in short 3 or 5 rounds showdowns. Each team has two autonomous robots playing for their side at a time. All teams start with 0 points. Teams can either try to increase their points or win by goaling 3 corrupt energy cores to the opponent's base.
+
+
+Each team has two autonomous robots playing for their side at a time. All teams start with 0 points. Teams can either try to increase their points or win by goaling 3 corrupt energy cores to the opponent's base.
 
 The points are increased by collecting positive energy cores, balls, to the team's base. A point is given when an energy core stays inside the base and does not bounce off. The energy core doesn't have to be stopped to receive the point. After a point is given, the referee picks the energy core from the base by hand. Robots are not allowed to go intentionally inside their own base.
 
 If the team receives 3 corrupt energy cores, their base is destroyed, and the opponent wins. If both teams are alive at the end of a game, the team holding greater energy count will overpower their opponent and win. In the case of a tie, the team that collected the first energy core, wins.
 
 The round ends after 2.5 minutes or if all the energy cores are collected.
+
+The game is played between two teams battling each other in matches that consist of short rounds , i.e. first team to 2 or 3 wins. 
+
+## Tournament
+
+
 
 ## Starting Setup
 
