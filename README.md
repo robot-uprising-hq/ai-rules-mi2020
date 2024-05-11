@@ -1,6 +1,8 @@
-# Micro Invaders 2.0 Rules
+# Micro Invaders 2024 Competition Rules
 
-Here are the rules for the event Micro Invaders 2.0. Feel free to suggest rule changes by creating _an issue_ or _a pull request_.
+**NOTE that the rules are currently under revision for the 2024 competition and may receive any changes until May 31st.** 
+
+This document outlines the rules the Robot Uprising: Micro Invaders 2024 Competition. The competition lives with the community so feel free to suggest rule changes by creating _an issue_ or _a pull request_, if you have ideas that.
 
 ## Game Logic
 
