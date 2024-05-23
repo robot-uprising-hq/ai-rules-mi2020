@@ -2,7 +2,7 @@
 
 **NOTE that the rules are currently under revision for the 2024 competition and may receive any changes until May 31st.** 
 
-This document outlines the rules the Robot Uprising: Micro Invaders 2024 Competition. The competition lives with the community so feel free to suggest rule changes by creating _an issue_ or _a pull request_, if you have ideas that.
+This document outlines the rules the Robot Uprising: Micro Invaders 2024 Competition. The competition lives with the community so feel free to suggest rule changes by creating _an issue_ or _a pull request_, if you have ideas that would improve the game.
 
 ## Game Logic
 
@@ -24,7 +24,7 @@ The game is played between two teams battling each other in matches that consist
 
 ## Starting Setup
 
-The game is played in a square-shaped 1.5x1.5m arena with multiple energy cores located on the arena. Two corners of the arena will function as bases, one for each team.
+The game is played in a square-shaped 1.5x1.5m arena with multiple energy cores located on the arena. Two opposing corners of the arena will function as bases, one for each team.
 
 At the start of each round, the competing robots are placed in front of their base.
 
@@ -34,19 +34,22 @@ The back of the robot must be touching its goal bump, and side of the robot must
 
 Energy cores are presented in the challenge as floorball balls in the area. The robots are able to push them around with ease.
 
-One of the corners with a bump has a tube filled with pink cores and the the tube spits out one pink core to the arena every 30s beginning from 0:30 
-and lasting until 2:00, spitting out 4 corrupt cores in total.
+![arena.png](arena.png)
 
-Green cores = positive cores (gain +1 point).\
-Pink cores = corrupt cores (if the team scores 3 of these to the opponent's goal, that team wins)
+The standard starting setup includes 8 yellow cores on the field spaced at equally on the field. Corrupt cores enter from the corners every 30s beginning from 0:30 and lasting until 2:00, spitting out 4 corrupt cores in total. This setup is used _unless affected by specific player actions or other higher power_.
+
+Yellow cores = positive cores (gain +1 point).
+Pink cores = corrupt cores (if a team scores 3 of these to the opponent's base/goal, the opponent is eliminated regardless of the points)
 
 ## Robots
 
-The team receives their robot model around 1 month before the competition, and each team will be assigned to have two unique ArUco markers.
+The competition robot 3D models and parts lists are available in the [hardware repo](https://github.com/robot-uprising-hq/ai-robot-hardware) and the teams may begin preparing their robots at any point. For the 2024 competition the robot electronics are provided to the teams by the organisers. This is planned to happen during June.
 
-Each team is can 3D-print their own robots and their ArUco markers or get them from the organizer. The organizer is also allowed to help and give, e.g. spare parts if needed.
+The organisers will assing each team two unique ArUco markers to be used with their robots. No other IDs may be used than the assigned ones.
 
-The color of the robot should be either black or white. Others colors can be used only if the colors cannot be seen at all from the top-down view camera.
+Each team is encouraged to 3D-print their own robots and their ArUco markers, but help is also available from the organisers.
+
+The color of the robot should be grayscale, i.e something black, white or between. Others colors can be used only if the colors cannot be seen at all from the top-down view camera. This is to prevent interference with the core detection by color.
 
 On top of each robot, there must be an ArUco marker. The markers should point directly up. See the more detailed rules under the ArUco section.
 
