@@ -4,8 +4,6 @@ This document outlines the rules the Robot Uprising: Micro Invaders 2024 Competi
 
 ## Game Logic
 
-
-
 Each team has two autonomous robots playing for their side at a time. All teams start with 0 points. Teams can either try to increase their points or win by scoring 3 corrupt energy cores to the opponent's base (goal).
 
 The points are increased by collecting energy cores (yellow balls) to the team's base. A point is given when an energy core stays inside the base and does not bounce off. The energy core doesn't have to be stopped to receive the point. After a point is given, the referee picks the energy core from the base by hand. Robots are not allowed to go intentionally inside their own base.
@@ -16,9 +14,6 @@ The round ends after 2.5 minutes or if all the cores are collected.
 
 Micro Invaders is played between two teams battling each other in games that consist of short rounds for "best of three" or "best of five" in case of the final, i.e. first team to win 2 or 3 rounds wins the game.
 
-## Tournament
-
-
 
 ## Starting Setup
 
@@ -27,6 +22,7 @@ The game is played in a square-shaped 1.5x1.5m arena with multiple cores located
 At the start of each round, the competing robots are placed in front of their base.
 
 The back of the robot must be touching its team's goal bump, and side of the robot must be 100 mm away from the wall. The distance is measured along with the goal bump.
+
 
 ## Energy Cores
 
@@ -39,16 +35,19 @@ The standard starting setup includes 8 yellow energy cores on the field spaced a
 Yellow balls = Energy cores (gain +1 point).
 Red balls = Corrupt cores (if a team scores 3 of these to the opponent's base/goal, the opponent is eliminated regardless of the points)
 
+
 ## Robots
 
 ![Picture of the competition robot with important parts annotated](robot_parts.png)
 
 The competition robot 3D models and parts lists are available in the [hardware repo](https://github.com/robot-uprising-hq/ai-robot-hardware) and the teams may begin preparing their robots at any point. For the 2024 competition the robot electronics are provided to the teams by the organisers. This is planned to happen during June.
 
+
 ### 3D-printed parts
 The robot consists of mainly 3D-printed parts that are available as .STLs in the [hardware repo](https://github.com/robot-uprising-hq/ai-robot-hardware). Each team is encouraged to 3D-print their own robots but help is also available from the organisers should the team not have access to 3D printers or if some parts turn out otherwise challenging.
 
 **The color of the robot must be mainyl grayscale**, i.e something black, white or between. Others colors can be used only if the colors cannot be seen at all from the top-down view camera. This is to prevent interference with the core detection by color.
+
 
 ### Accessories and customisation
 
