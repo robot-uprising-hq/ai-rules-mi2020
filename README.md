@@ -26,9 +26,9 @@ The back of the robot must be touching its team's goal bump, and side of the rob
 
 ## Energy Cores
 
-Energy cores are presented in the challenge as floorball balls in the area. The robots are able to push them around with ease.
+Energy cores are presented in the challenge as floorball balls in the area, with a diameter of 72mm.The robots are able to push them around with ease. The cores pretty closely match these: [yellow/green](https://www.prisma.fi/tuotteet/100076158/karhu-hand-of-doom-salibandypallo-100076158) and [red/pink](https://www.prisma.fi/tuotteet/100083285/karhu-hand-of-doom-salibandypallo-100083285).
 
-![Standard starting setup for the placement of the cores](standard_core_placement.png)
+![Standard starting setup for the placement of the cores](arena.png)
 
 The standard starting setup includes 8 yellow energy cores on the field spaced at equally on the field. Red corrupt cores enter from the corners every 30s beginning from 0:30 and lasting until 2:00, spitting out 4 corrupt cores in total. This setup is used _unless affected by specific player actions or other higher power_.
 
@@ -46,16 +46,17 @@ The competition robot 3D models and parts lists are available in the [hardware r
 ### 3D-printed parts
 The robot consists of mainly 3D-printed parts that are available as .STLs in the [hardware repo](https://github.com/robot-uprising-hq/ai-robot-hardware). Each team is encouraged to 3D-print their own robots but help is also available from the organisers should the team not have access to 3D printers or if some parts turn out otherwise challenging.
 
-**The color of the robot must be mainyl grayscale**, i.e something black, white or between. Others colors can be used only if the colors cannot be seen at all from the top-down view camera. This is to prevent interference with the core detection by color.
+**The color of the robot must be mainly grayscale**, i.e something black, white or between. Others colors can be used only if the colors cannot be seen at all from the top-down view camera. This is to prevent interference with the core detection by color.
 
 
 ### Accessories and customisation
 
-Teams are allowed to attach their own custom accessories/parts at the front of the robots. The accessories must be 3D-printed, and their color must be either black or white. With the front accessory, the length of the robot should be at max 180mm and the width of which 120mm. The height of the accessories must not surpass the height of the AruCo marker on top of the robot. The front accessories are not allowed to on purpose block any ArUco markers.
+Teams are allowed to attach their own custom accessories/parts at the front of the robots. The accessories must be 3D-printed, and their color must be grayscale, i.e something black, white or between. **With the front accessory, the length of the robot must be at max 180mm and the width at max 120mm.** The default lenght of the robot without the front accessory is around 135mm and the width around 110mm. The height of the accessories must not surpass the height of the AruCo marker on top of the robot and the default height of the robot from the bottom of the tracks to the top of the ArUco plate is around 80mm. The front accessories are not allowed to on purpose block any ArUco markers.
 
 The robots are not allowed to break nor destroy other robots, but nonharmful harassment, such as blocking or ramming, is allowed. All customisations are subject to review by the organisers.
 
 **Any custom accessories used in the tournament** must be released under an open source license after the tournament that allows other competitors to take advantage of the same designs in the following competitions.
+
 
 ### Robot electronics
 
@@ -63,6 +64,7 @@ The robots are not allowed to break nor destroy other robots, but nonharmful har
 
 
 The competition robots must use the formal electronics hardware listed in the [hardware repo](https://github.com/robot-uprising-hq/ai-robot-hardware) which is provided to the competitors by the organisers (or can be otherwise acquired by enthusiasts). Minor differences in the components may be allowed due changes in suppliers etc. over the years, but in general the customisation of the electronics is out of scope for the competition. I.e. it's not allowed to upgrade the robot with more powerful motors.
+
 
 ### Robot Identification
 
@@ -93,9 +95,6 @@ In the borderline of scoring areas, there are small greyish-white bumps that pre
 
 The two corners, marked with black, have small bumpers that prevent the balls from getting stuck in the corners, where the robots might have trouble retrieving them.
 
-One of the corners with a bump also has a tube filled with corrupt energy cores and the the tube spits out one corrupt core to the arena every 30s beginning from 0:30 and lasting until 2:00, spitting out 4 corrupt cores in total.
-
-The robots are roughly 130mm x 110mm without any accessories. With the accessories, the maximum allowed size is 165mm x 120mm. The energy cores have a diameter of 72mm.
 
 
 ## Game Network
